@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Evie and I'm a student at the University of Chicago, from New Jersey.</h2>
+<h2 align="left">Hi 👋! My name is Evie and I'm a student at the University of Chicago.</h2>
 
 ###
 
