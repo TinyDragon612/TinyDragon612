@@ -4,6 +4,8 @@
 
 Evie Hu is an undergraduate student at the University of Chicago. Before attending UChicago, Evie graduated from Glen Rock High School, led her school’s FTC robotics team (go cosmic goose!), worked for fin-tech startup FinanceGPT, and researched adversarial machine learning in large language models. She is also a personality type INFJ, blood type A positive, and enjoys writing about herself in the third person. Her favorite astronomical entity is the Trapezium.
 
+Here are Guido van Rossum's GitHub stats, because they're much more impressive than mine:
+
 ###
 
 <div align="center">
