@@ -2,7 +2,7 @@
 
 ###
 
-I'm an undergraduate student at the University of Chicago studying computer science and philosophy. I'm interested in learning about advarsarial machine learning. I'm also a personality type INFJ, blood type A positive, and my favorite astronomical entity is the Trapezium Cluster.
+I'm an undergraduate student at the University of Chicago studying computer science and philosophy. I'm interested in learning about adversarial machine learning. I'm also a personality type INFJ, blood type A positive, and my favorite astronomical entity is the Trapezium Cluster.
 
 Here are Guido van Rossum's GitHub stats, because they're much more impressive than mine:
 
