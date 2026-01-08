@@ -9,11 +9,8 @@ Here are Guido van Rossum's GitHub stats, because they're much more impressive t
 ###
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvanrossum&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvanrossum&layout=compact&theme=dracula)
-
+  <img src="https://github-readme-stats-evie.vercel.app/api?username=gvanrossum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-evie.vercel.app/api/top-langs/?username=gvanrossum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="languages graph"  />
 </div>
 
 ###
