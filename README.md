@@ -13,6 +13,8 @@ Here are Guido van Rossum's GitHub stats, because they're much more impressive t
   <img src="https://github-readme-stats-evie.vercel.app/api/top-langs/?username=gvanrossum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="languages graph"  />
 </div>
 
+
+<!--
 ###
 
 <div align="left">
@@ -34,6 +36,7 @@ Here are Guido van Rossum's GitHub stats, because they're much more impressive t
 </div>
 
 ###
+-->
 
 <div align="left">
   <a href="mailto:evelynhu@uchicago.edu" target="_blank">
